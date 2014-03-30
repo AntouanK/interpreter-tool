@@ -1,0 +1,23 @@
+{
+  "name": "interpreter",
+  "version": "0.1.0",
+  "description": "Tool for managing different language files for an application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntouanK/interpreter.git"
+  },
+  "keywords": [
+    "interpreter",
+    "i18n"
+  ],
+  "author": "Antonis Karamitros @antouank",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntouanK/interpreter/issues"
+  },
+  "homepage": "https://github.com/AntouanK/interpreter"
+}
